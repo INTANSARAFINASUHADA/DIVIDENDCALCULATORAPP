@@ -97,18 +97,18 @@ The APK file is provided under the folder:
 ## 🔗 GitHub Repository Link
 (Replace with your real repo link)
 
-https://github.com/your-username/your-repo-name
+https://github.com/INTANSARAFINASUHADA/DIVIDENDCALCULATORAPP
 
 ---
 
 ## 👩‍💻 Author
-Name: Hanun Wajihah  
-Matric No: 2023286192  
-Course: CDCS240  
+AUTHOR: INTAN SARAFINA SUHADA BINTI MUJAH  
+MATRIC NO: 2023436586  
+COURSE: CDCS240  
 
 ---
 
 ## © Copyright
-© 2025 Unit Trust Dividend Calculator. All rights reserved.
+Copyright © 2025 All Rights Reserved
 
 ---
