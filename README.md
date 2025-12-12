@@ -73,17 +73,17 @@ Replace the placeholder images after uploading real screenshots into the /screen
 ---
 
 ### 🏠 Home Page  
-![Home Page](SCREENSHOTSCREEN/homecalculatorscreen.png)
+![Home Page](screenshot/homecalculatorscreen.png)
 
 ---
 
 ### ℹ️ About Page  
-![About Page](SCREENSHOTSCREEN/aboutscreen.png)
+![About Page](screenshot/aboutscreen.png)
 
 ---
 
 ### 🧮 Calculation Example  
-![Calculation Example](SCREENSHOTSCREEN/sample.png)
+![Calculation Example](screenshot/sample.png)
 
 ---
 
